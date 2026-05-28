@@ -4,7 +4,7 @@ A browser-based UI + Python CLI to explore country data from the [REST Countries
 
 ## Screenshot
 
-![UI Screenshot](screenshot.png)
+![UI Screenshot](Screenshot.png)
 
 ## Features
 
