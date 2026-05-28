@@ -81,14 +81,6 @@ python3 fetch_country.py code JP | jq '.[] | {name: .name.common, capital: .capi
 | `/alpha/{code}` | Lookup by ISO code |
 | `/region/{region}` | Filter by region |
 
-## What I Learned
-
-- How to make REST API calls from Python (`urllib`) and from the browser (`fetch`)
-- How to parse and display JSON data dynamically in the DOM
-- How to build a responsive, interactive browser UI with vanilla JS
-- API field filtering (using `?fields=`) to reduce payload size
-- Chaining async/await calls for a smooth UX
-
 ## Requirements
 
 - Python 3.6+ (standard library only)
