@@ -12,7 +12,6 @@ A browser-based UI + Python CLI to explore country data from the [REST Countries
 |---|---|---|
 | Search by name | ✅ | ✅ |
 | Browse by region | ✅ | ✅ |
-| Random country | ✅ | — |
 | Flag display | ✅ | — |
 | Population | ✅ | ✅ |
 | Capital | ✅ | ✅ |
